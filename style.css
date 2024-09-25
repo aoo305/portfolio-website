@@ -61,6 +61,7 @@ h5{
 }
 .grid1{
     grid-row: 1 / span 2;
+    background-image: url("/images/gradient-geometric-background_23-2149329063.jpg");
     background-image: url("./images/gradient-geometric-background_23-2149329063.jpg");
     background-position: center;
     background-size: cover;
