@@ -61,7 +61,7 @@ h5{
 }
 .grid1{
     grid-row: 1 / span 2;
-    background-image: url(/images/gradient-geometric-background_23-2149329063.jpg);
+    background-image: url("./images/gradient-geometric-background_23-2149329063.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -74,7 +74,7 @@ h5{
     border-radius: 10px;
 }
 .grid2{
-    background-image: url(/images/rounded-lines-edge-background-creative-l.jpg);
+    background-image: url("./images/rounded-lines-edge-background-creative-l.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -87,7 +87,7 @@ h5{
     border-radius: 10px;
 }
 .grid3{
-    background-image: url(/images/colorful-overlapping.jpg);
+    background-image: url("./images/colorful-overlapping.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -101,7 +101,7 @@ h5{
 }
 .grid4{
     grid-column: 4 / span 4;
-    background-image: url(/images/abstract-background_1258715-139689.jpg);
+    background-image: url("./images/abstract-background_1258715-139689.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -114,7 +114,7 @@ h5{
     border-radius: 10px;
 }
 .grid5{
-    background-image: url(/images/abstract-colourful-circles.jpg);
+    background-image: url("./images/abstract-colourful-circles.jpg");
     grid-column: 2 / span 2;
     background-position: center;
     background-size: cover;
@@ -129,7 +129,7 @@ h5{
 }
 .grid6{
     grid-column: 4 / span 4;
-    background-image: url(/images/vibrant-background.jpg);
+    background-image: url("./images/vibrant-background.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
